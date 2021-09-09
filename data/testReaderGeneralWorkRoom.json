@@ -1,0 +1,102 @@
+{
+  "we": [
+    {
+      "exercises": [
+        {
+          "reps": 6,
+          "sets": 4,
+          "name": "Bench Press"
+        },
+        {
+          "reps": 10,
+          "sets": 4,
+          "name": "Push Up"
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "reps": 6,
+          "sets": 4,
+          "name": "Bench Press"
+        },
+        {
+          "reps": 10,
+          "sets": 4,
+          "name": "Push Up"
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "reps": 6,
+          "sets": 4,
+          "name": "Bench Press"
+        },
+        {
+          "reps": 10,
+          "sets": 4,
+          "name": "Push Up"
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "reps": 6,
+          "sets": 4,
+          "name": "Bench Press"
+        },
+        {
+          "reps": 10,
+          "sets": 4,
+          "name": "Push Up"
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "reps": 6,
+          "sets": 4,
+          "name": "Bench Press"
+        },
+        {
+          "reps": 10,
+          "sets": 4,
+          "name": "Push Up"
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "reps": 1,
+          "sets": 1,
+          "name": "Bench Press"
+        },
+        {
+          "reps": 1,
+          "sets": 1,
+          "name": "Push Up"
+        }
+      ]
+    },
+    {
+      "exercises": [
+        {
+          "reps": 6,
+          "sets": 4,
+          "name": "Bench Press"
+        },
+        {
+          "reps": 10,
+          "sets": 4,
+          "name": "Push Up"
+        }
+      ]
+    }
+  ]
+}

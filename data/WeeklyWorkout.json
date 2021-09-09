@@ -1,0 +1,118 @@
+{"we": [
+    {"exercises": [
+        {
+            "reps": 20,
+            "sets": 3,
+            "name": "Push Up"
+        },
+        {
+            "reps": 12,
+            "sets": 3,
+            "name": "Lat Pulldown"
+        },
+        {
+            "reps": 12,
+            "sets": 3,
+            "name": "Dumbbell Row"
+        },
+        {
+            "reps": 6,
+            "sets": 4,
+            "name": "Shoulder Press"
+        },
+        {
+            "reps": 1,
+            "sets": 1,
+            "name": "ok"
+        }
+    ]},
+    {"exercises": [
+        {
+            "reps": 12,
+            "sets": 4,
+            "name": "Barbell Squat"
+        },
+        {
+            "reps": 6,
+            "sets": 4,
+            "name": "Barbell Deadlift"
+        },
+        {
+            "reps": 12,
+            "sets": 3,
+            "name": "Leg Extension"
+        },
+        {
+            "reps": 12,
+            "sets": 3,
+            "name": "Leg Curl"
+        }
+    ]},
+    {"exercises": []},
+    {"exercises": [
+        {
+            "reps": 6,
+            "sets": 4,
+            "name": "Bench Press"
+        },
+        {
+            "reps": 20,
+            "sets": 3,
+            "name": "Push Up"
+        },
+        {
+            "reps": 12,
+            "sets": 3,
+            "name": "Lat Pulldown"
+        },
+        {
+            "reps": 12,
+            "sets": 3,
+            "name": "Dumbbell Row"
+        },
+        {
+            "reps": 6,
+            "sets": 4,
+            "name": "Shoulder Press"
+        }
+    ]},
+    {"exercises": [
+        {
+            "reps": 12,
+            "sets": 4,
+            "name": "Barbell Squat"
+        },
+        {
+            "reps": 6,
+            "sets": 4,
+            "name": "Barbell Deadlift"
+        },
+        {
+            "reps": 12,
+            "sets": 3,
+            "name": "Leg Extension"
+        },
+        {
+            "reps": 12,
+            "sets": 3,
+            "name": "Leg Curl"
+        }
+    ]},
+    {"exercises": [
+        {
+            "reps": 1,
+            "sets": 1,
+            "name": "20 Min Jog"
+        },
+        {
+            "reps": 1,
+            "sets": 3,
+            "name": "100m Sprint"
+        }
+    ]},
+    {"exercises": [{
+        "reps": 12,
+        "sets": 12,
+        "name": "a"
+    }]}
+]}

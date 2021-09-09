@@ -1,0 +1,20 @@
+{"we": [
+    {"exercises": [
+        {
+            "reps": 10,
+            "sets": 5,
+            "name": "Leg Press"
+        },
+        {
+            "reps": 12,
+            "sets": 6,
+            "name": "Push Up"
+        }
+    ]},
+    {"exercises": []},
+    {"exercises": []},
+    {"exercises": []},
+    {"exercises": []},
+    {"exercises": []},
+    {"exercises": []}
+]}
